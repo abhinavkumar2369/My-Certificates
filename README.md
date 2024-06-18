@@ -4,6 +4,11 @@
 ## ➡️ React Native - The Practical Guide
 ![UC-aae530c3-2fc9-4b03-a40c-5c21874b688a](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/92179047-d3e9-4dde-947f-2d4462a784be)
 
+## ➡️ PW Skills
+## ➡️ MERN Stack Web Development 2.0
+![80c2d557-e9ae-4390-8701-a6e551a6b31e_page-0001](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/59d952a5-fe62-4b33-81bd-969190330424)
+
+
 ## ➡️ Python for Begginers
 ![Python for Bignners](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/889dd90f-7f84-4e9c-b53b-fd7610838f3a)
 
@@ -18,3 +23,9 @@
 ## ➡️ IBM Big Data
 ![IBM Big Data](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/4615faa9-7cf3-4627-a0a2-93f77e1fd3dd)
 ![Credly IBM Big Data](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/ccaa586d-890c-4dd6-b3a7-95b628b91327)
+
+## ➡️ Data Structure in C
+![Front End Development HTML](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/d4a9d7cf-6bff-4c94-ae28-c5f5f62000d6)
+
+## ➡️ Front End Development HTML
+![Data Structure in C](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/6f6ff845-fd11-4c7e-afd8-4043194ea9d9)
