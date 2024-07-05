@@ -10,7 +10,7 @@
 # 🚀 FreeCodeCamp 🚀
 ![FreeCodeCamp Responsive Web Design](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/b94c4a57-d169-4a25-9e4b-8decfe15fbcb)
 ![FreeCodeCamp-JavaScript-DSA](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/09ff4177-d52d-427f-b567-a931fd7979ff)
-
+![Scientific Computing  with Python](https://github.com/abhinavkumar2369/My-Certificates/assets/170245635/14ed3bd9-bc95-4de9-9aff-aae69978f020)
 
 
 
